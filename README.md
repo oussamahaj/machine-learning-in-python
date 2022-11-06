@@ -1,4 +1,4 @@
-# deep-learning-with-tensorflow-2-0
+# machine-learning-in-python
 Regression analysis is one of the most widely used methods for prediction. Linear regression is probably the most
 fundamental machine learning method out there and a starting point for the advanced analytical learning path of
 every aspiring data scientist.
